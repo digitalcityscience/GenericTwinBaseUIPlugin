@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GenericTwinBaseUIPlugin",
+	"Description": "Providing basic UI functionality to the GenericTwin framework",
+	"Category": "Other",
+	"CreatedBy": "M.Ernst",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GenericTwinBaseUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
