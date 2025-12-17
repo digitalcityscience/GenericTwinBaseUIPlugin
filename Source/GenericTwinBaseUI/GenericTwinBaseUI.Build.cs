@@ -67,8 +67,10 @@ public class GenericTwinBaseUI : ModuleRules
 
 				"UMG",
 				"Json",
-
+				"JsonUtilities",
 				"GenericTwinCore",
+				"GenericTwinUtils",
+				"GeoReferencing"
 			}
 			);
 		
