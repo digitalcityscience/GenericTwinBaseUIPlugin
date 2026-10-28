@@ -60,12 +60,6 @@ public:
 	EGenericTwinConfigPropertyType	PropertyType;
 
 	UPROPERTY(BlueprintReadonly, Category = Default)
-	FString	PropertyName;
-
-	UPROPERTY(BlueprintReadonly, Category = Default)
-	bool	IsRealtime;
-
-	UPROPERTY(BlueprintReadonly, Category = Default)
 	bool	AsSlider = false;
 
 };
